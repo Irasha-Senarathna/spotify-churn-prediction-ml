@@ -1,0 +1,9 @@
+Logistic Regression Metrics:
+Accuracy: 0.7412
+Precision: 0.0000
+Recall: 0.0000
+F1-Score: 0.0000
+ROC-AUC: 0.5000
+Confusion Matrix:
+[[1186    0]
+ [ 414    0]]
