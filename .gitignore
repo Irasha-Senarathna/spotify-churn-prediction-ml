@@ -6,6 +6,9 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
+*.pkl
+*.npy
+*.csv
 
 # Jupyter
 .ipynb_checkpoints/
