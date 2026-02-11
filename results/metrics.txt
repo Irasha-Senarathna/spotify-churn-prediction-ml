@@ -7,3 +7,29 @@ ROC-AUC: 0.5000
 Confusion Matrix:
 [[1186    0]
  [ 414    0]]
+
+
+Random Forest Results
+Accuracy: 0.736875
+ROC-AUC: 0.5159896864383997
+              precision    recall  f1-score   support
+
+           0       0.74      0.99      0.85      1186
+           1       0.18      0.00      0.01       414
+
+    accuracy                           0.74      1600
+   macro avg       0.46      0.50      0.43      1600
+weighted avg       0.60      0.74      0.63      1600
+
+
+Random Forest Results
+Accuracy: 0.736875
+ROC-AUC: 0.5159896864383997
+              precision    recall  f1-score   support
+
+           0       0.74      0.99      0.85      1186
+           1       0.18      0.00      0.01       414
+
+    accuracy                           0.74      1600
+   macro avg       0.46      0.50      0.43      1600
+weighted avg       0.60      0.74      0.63      1600
